@@ -1,18 +1,10 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    # SHAPEAI WEB DEV BOOTCAMP
+# SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="C:\Users\Naman Choudhary\OneDrive\Desktop\shapeaiimage.png"> </a>
+<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
@@ -31,5 +23,3 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-</body>
-</html>
